@@ -133,4 +133,4 @@ TweenService:Create(CC, TweenInfo.new(5), {Contrast = 0, Saturation = 0, TintCol
 DreadSound:Stop()
 DreadSound:Destroy()
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/eoyoustme/Script/refs/heads/main/Dread4221"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/firerygames055/dread-fixed/refs/heads/main/dread%20fixed%20dependency%202"))()
