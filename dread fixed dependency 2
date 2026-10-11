@@ -273,5 +273,5 @@ achievementGiver({
     Title = "Death of night",
     Desc = "The time had come",
     Reason = "encounter and survive dread",
-    Image = "rbxassetid://130171881523423"
+    Image = "rbxassetid://137104912354391"
 })
