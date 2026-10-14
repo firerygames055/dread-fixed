@@ -12,7 +12,7 @@ local entity = spawner.Create({
 	},
 	Lights = {
 		Flicker = {
-			Enabled = false,
+			Enabled = true,
 			Duration = 1
 		},
 		Shatter = true,
@@ -50,7 +50,7 @@ local entity = spawner.Create({
 		Break = true
 	},
 	Death = {
-		Type = "Guiding", -- "Curious"
+		Type = "Curious",
 		Hints = {"You died to dread", "When the clock stops chiming", "Hide immediately!", "You can do this!"},
 		Cause = "Dread"
 	}
